@@ -27,7 +27,7 @@ Demonstrates comparison and branching logic in assembly.
 #Task 2: Array Manipulation with Looping and Reversal
 This program accepts an array of integers (5 values), reverses it in place, and outputs the reversed array.
 
-Key Features:
+## Key Features:
 
 Uses loops for in-place reversal.
 Avoids additional memory allocation.
