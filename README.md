@@ -13,7 +13,7 @@ ICS3203-CAT2-Assembly-ClarissaKobusingye-<YourAdmNumber>/
 └── README.md
 
 ## Tasks Overview
-#Task 1: Control Flow and Conditional Logic
+* Task 1: Control Flow and Conditional Logic
 This program prompts the user to input a number and classifies it as:
 
 POSITIVE
@@ -24,15 +24,15 @@ Key Features:
 Utilizes conditional and unconditional jumps for control flow.
 Demonstrates comparison and branching logic in assembly.
 
-#Task 2: Array Manipulation with Looping and Reversal
+* Task 2: Array Manipulation with Looping and Reversal
 This program accepts an array of integers (5 values), reverses it in place, and outputs the reversed array.
 
-## Key Features:
+Key Features:
 
 Uses loops for in-place reversal.
 Avoids additional memory allocation.
 
-#Task 3: Modular Program with Subroutines for Factorial Calculation
+* Task 3: Modular Program with Subroutines for Factorial Calculation
 This program computes the factorial of a number using:
 
 A subroutine to perform the calculation.
@@ -42,7 +42,7 @@ Key Features:
 Demonstrates modular programming concepts.
 Shows recursive function implementation in assembly.
 
-#Task 4: Data Monitoring and Control Using Port-Based Simulation
+* Task 4: Data Monitoring and Control Using Port-Based Simulation
 This program simulates a sensor-based control system:
 
 Reads a "sensor value."
